@@ -1,0 +1,7 @@
+div.jugelizi{
+    height:80vh;
+    width:80vw;
+    margin: 10vh 10vw;
+    background: url(../img/chestnut.jpg);
+    background-size:cover;
+}
